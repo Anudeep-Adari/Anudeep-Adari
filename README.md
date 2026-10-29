@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,40:0369a1,70:0ea5e9,100:38bdf8&height=140&section=header" alt="header"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header" alt="header"/> 
 
 <a href="https://github.com/Anudeep-Adari">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&width=650&lines=Hello%2C+I'm+Anudeep+Adari;Platform+Consultant;Enterprise+Cloud+%26+Virtualization;Self-Healing+Automation+%26+SRE" alt="Anudeep Adari - Platform Consultant"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&duration=4000&pause=1000&color=38BDF8&width=650&lines=Hello%2C+I'm+Anudeep+Adari;Platform+Consultant;Cloud+%26+Virtualization;Self-Healing+Automation+%26+SRE" alt="Anudeep Adari - Platform Consultant"/>
 </a>
 
 <div>
@@ -102,4 +102,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anudeep-Adari&theme=tokyonight&background=0d1117" alt="Anudeep-Adari Streak" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,40:0369a1,70:0ea5e9,100:38bdf8&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer" alt="footer"/>
