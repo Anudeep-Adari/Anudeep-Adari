@@ -1,0 +1,24 @@
+name: Profile Integrity Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  verify-assets:
+    name: Verify Profile Readme & Assets
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Check Critical Media Assets
+        run: |
+          test -f assets/terminal.gif || { echo "assets/terminal.gif missing!"; exit 1; }
+          test -f assets/avatar.png || { echo "assets/avatar.png missing!"; exit 1; }
+          test -f README.md || { echo "README.md missing!"; exit 1; }
+          echo "All profile assets and README intact!"
