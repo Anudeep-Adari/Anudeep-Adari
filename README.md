@@ -1,18 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" alt="header"/> 
 
 <a href="https://github.com/Anudeep-Adari">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&width=480&lines=Hello%2C+I'm+Anudeep+Adari;Systems+Engineer;Platform+Architect;AI+%26+Cloud+Infrastructure" alt="Anudeep Adari"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&width=480&lines=Hello%2C+I'm+Anudeep+Adari;Platform+Consultant;Cloud+%26+Automation;AI+%26+Infrastructure" alt="Anudeep Adari"/>
 </a>
 
 ```bash
 anudeep@workstation:~$ whoami
-> Anudeep Adari ─ Systems Engineer & Platform Architect
+> Anudeep Adari ─ Platform Consultant
 
 anudeep@workstation:~$ cat current_focus.json
 {
-  "focus": "Low-Latency Systems Programming & Kernel-Level Optimization",
+  "role": "Platform Consultant",
+  "focus": "Enterprise Cloud, Automation & Self-Healing Telemetry",
   "active_project": "Monitoring Sentinel (Autonomous Hybrid Observability & Self-Healing SRE)",
-  "agentic_ai": "Model Context Protocol (MCP) & FastMCP Stdio Server Architecture",
+  "agentic_ai": "Model Context Protocol (MCP) & Agentic Workflows",
   "creed": "Simplicity and isolation are prerequisites for reliability."
 }
 ```
