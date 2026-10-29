@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" alt="header"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,40:0369a1,70:0ea5e9,100:38bdf8&height=140&section=header" alt="header"/> 
 
 <a href="https://github.com/Anudeep-Adari">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&width=480&lines=Hello%2C+I'm+Anudeep+Adari;Platform+Consultant;Cloud+%26+Automation;AI+%26+Infrastructure" alt="Anudeep Adari"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&width=650&lines=Hello%2C+I'm+Anudeep+Adari;Platform+Consultant;Enterprise+Cloud+%26+Virtualization;Self-Healing+Automation+%26+SRE" alt="Anudeep Adari - Platform Consultant"/>
 </a>
 
 <div>
-    <img src="./assets/terminal.svg" alt="About Anudeep Terminal Window" width="100%"/>
+    <img src="./assets/terminal.gif" alt="About Anudeep Terminal Window" width="100%"/>
 </div>
 
 ---
@@ -43,8 +43,24 @@
   </tr>
 </table>
 
-### Studying
+### 🔭 Studying & Advanced Practice
 [![Learning](https://skillicons.dev/icons?i=kubernetes,terraform,ansible,grafana,prometheus&theme=dark)](https://skillicons.dev)
+
+---
+
+### 🏆 Industry Certifications & Credentials
+
+| Domain | Credential & Specialization | Verified Badge |
+| :--- | :--- | :--- |
+| **Microsoft** | Windows Server Hybrid Administrator Associate (`AZ-800`, `AZ-801`) | <img src="https://img.shields.io/badge/Microsoft-Windows%20Server%20Hybrid%20Administrator-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft AZ-800" /> |
+| **Amazon Web Services** | AWS Certified Solutions Architect – Associate (`SAA-C03`) | <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SAA" /> |
+| **Amazon Web Services** | AWS Certified CloudOps Engineer – Associate | <img src="https://img.shields.io/badge/AWS-CloudOps%20Engineer-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS CloudOps" /> |
+| **Nutanix** | Nutanix Certified Professional – Multicloud Infrastructure (`NCP-MCI 6`) | <img src="https://img.shields.io/badge/Nutanix-Multicloud%20Infrastructure%20(NCP--MCI%206)-024D9C?style=flat-square&logo=nutanix&logoColor=white" alt="Nutanix NCP-MCI" /> |
+| **Nutanix** | Nutanix Certified Associate (`NCA 6`) | <img src="https://img.shields.io/badge/Nutanix-Associate%20(NCA%206)-00C08B?style=flat-square&logo=nutanix&logoColor=white" alt="Nutanix NCA" /> |
+| **IBM** | Generative & Agentic AI Consultant / Business Analyst | <img src="https://img.shields.io/badge/IBM-Generative%20%26%20Agentic%20AI%20Consultant-1F70C1?style=flat-square&logo=ibm&logoColor=white" alt="IBM AI Consultant" /> |
+| **IBM** | Generative & Agentic AI Foundation | <img src="https://img.shields.io/badge/IBM-Generative%20AI%20Foundation-1F70C1?style=flat-square&logo=ibm&logoColor=white" alt="IBM AI Foundation" /> |
+| **Anthropic** | Claude Certified Developer – Foundations | <img src="https://img.shields.io/badge/Anthropic-Claude%20Certified%20Developer-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Certified Developer" /> |
+| **Anthropic** | Claude 101: AI-Assisted Workflows & System Documentation | <img src="https://img.shields.io/badge/Anthropic-Claude%20101%20Specialist-191919?style=flat-square&logo=anthropic&logoColor=D97706" alt="Claude 101" /> |
 
 ---
 
@@ -75,15 +91,15 @@
 ### Status & Activity `(͠≖ ͜ʖ͠≖)👌`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anudeep-Adari&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eta-sepia-45.vercel.app/api?username=Anudeep-Adari&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anudeep-Adari&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-eta-sepia-45.vercel.app/api/top-langs/?username=Anudeep-Adari&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anudeep-Adari&theme=tokyonight&background=0d1117" alt="Anudeep-Adari Streak" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,40:0369a1,70:0ea5e9,100:38bdf8&height=120&section=footer" alt="footer"/>
