@@ -38,16 +38,16 @@
     <!-- JSON Content -->
     <text y="24"><tspan class="bracket">{</tspan></text>
     <text y="44">  <tspan class="key">"role"</tspan><tspan class="comment">:</tspan> <tspan class="val">"Platform Consultant"</tspan><tspan class="comment">,</tspan></text>
-    <text y="64">  <tspan class="key">"cloud_infrastructure"</tspan><tspan class="comment">:</tspan> <tspan class="bracket">[</tspan><tspan class="val">"Windows Server"</tspan><tspan class="comment">, </tspan><tspan class="val">"VMware vSphere"</tspan><tspan class="comment">, </tspan><tspan class="val">"Nutanix HCI"</tspan><tspan class="comment">, </tspan><tspan class="val">"AWS"</tspan><tspan class="comment">, </tspan><tspan class="val">"Azure"</tspan><tspan class="bracket">]</tspan><tspan class="comment">,</tspan></text>
-    <text y="84">  <tspan class="key">"languages_automation"</tspan><tspan class="comment">:</tspan> <tspan class="bracket">[</tspan><tspan class="val">"PowerShell 7"</tspan><tspan class="comment">, </tspan><tspan class="val">"Python 3.11+"</tspan><tspan class="comment">, </tspan><tspan class="val">"C# (.NET 8 LTS)"</tspan><tspan class="comment">, </tspan><tspan class="val">"TypeScript"</tspan><tspan class="bracket">]</tspan><tspan class="comment">,</tspan></text>
-    <text y="104">  <tspan class="key">"active_flagship"</tspan><tspan class="comment">:</tspan> <tspan class="val">"Monitoring Sentinel (Autonomous Hybrid Observability &amp; Self-Healing SRE)"</tspan><tspan class="comment">,</tspan></text>
-    <text y="124">  <tspan class="key">"agentic_ai"</tspan><tspan class="comment">:</tspan> <tspan class="val">"Model Context Protocol (MCP) &amp; FastMCP Stdio Server Architecture"</tspan><tspan class="comment">,</tspan></text>
+    <text y="64">  <tspan class="key">"cloud_infrastructure"</tspan><tspan class="comment">:</tspan> <tspan class="bracket">[</tspan><tspan class="val">"Windows Server"</tspan><tspan class="comment">, </tspan><tspan class="val">"VMware vSphere"</tspan><tspan class="comment">, </tspan><tspan class="val">"AWS"</tspan><tspan class="comment">, </tspan><tspan class="val">"Azure"</tspan><tspan class="comment">, </tspan><tspan class="val">"Docker"</tspan><tspan class="bracket">]</tspan><tspan class="comment">,</tspan></text>
+    <text y="84">  <tspan class="key">"scripting_automation"</tspan><tspan class="comment">:</tspan> <tspan class="bracket">[</tspan><tspan class="val">"PowerShell 7"</tspan><tspan class="comment">, </tspan><tspan class="val">"Python"</tspan><tspan class="comment">, </tspan><tspan class="val">"Selenium"</tspan><tspan class="comment">, </tspan><tspan class="val">"Playwright"</tspan><tspan class="comment">, </tspan><tspan class="val">"Bash"</tspan><tspan class="bracket">]</tspan><tspan class="comment">,</tspan></text>
+    <text y="104">  <tspan class="key">"database_methodologies"</tspan><tspan class="comment">:</tspan> <tspan class="bracket">[</tspan><tspan class="val">"SQLite"</tspan><tspan class="comment">, </tspan><tspan class="val">"Kanban"</tspan><tspan class="comment">, </tspan><tspan class="val">"ITIL v4"</tspan><tspan class="comment">, </tspan><tspan class="val">"CIS OS Hardening"</tspan><tspan class="bracket">]</tspan><tspan class="comment">,</tspan></text>
+    <text y="124">  <tspan class="key">"active_flagship"</tspan><tspan class="comment">:</tspan> <tspan class="val">"Monitoring Sentinel (Autonomous Hybrid Observability &amp; RCA)"</tspan><tspan class="comment">,</tspan></text>
     <text y="144">  <tspan class="key">"creed"</tspan><tspan class="comment">:</tspan> <tspan class="val">"Simplicity and isolation are prerequisites for reliability."</tspan></text>
     <text y="164"><tspan class="bracket">}</tspan></text>
 
     <!-- Command 2 -->
     <text y="196">
-      <tspan class="prompt">/anudeep $</tspan> <tspan class="cmd">echo</tspan> <tspan class="val">"Building resilient enterprise infrastructure &amp; telemetry sentinels."</tspan>
+      <tspan class="prompt">/anudeep $</tspan> <tspan class="cmd">echo</tspan> <tspan class="val">"Resilient enterprise infrastructure, automation &amp; platform consulting."</tspan>
     </text>
 
     <!-- Prompt 3 with Blinking Cursor -->

@@ -11,17 +11,25 @@
 ---
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,powershell,bash,ts,js,react,nextjs,fastapi,nodejs,docker,aws,azure,linux,ubuntu,windows,postgres,sqlite,prisma,git,github,githubactions&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,aws,azure,docker,powershell,bash,py,selenium,sqlite,git,github,githubactions&theme=dark)](https://skillicons.dev)
 
-### Studying & Exploring
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban" />
+  <img src="https://img.shields.io/badge/VMware%20vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory" />
+</p>
+
+### Studying
 [![Learning](https://skillicons.dev/icons?i=kubernetes,terraform,ansible,grafana,prometheus&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### Featured Projects
-- ⚡ **[PulseGuard](https://github.com/Anudeep-Adari/PulseGuard)** &mdash; High-performance Windows diagnostic telemetry, MMCSS esports latency tuning, and predictive NVMe wear forecaster (`.NET 8 LTS` / `C#`).
+- ⚡ **[PulseGuard](https://github.com/Anudeep-Adari/PulseGuard)** &mdash; High-performance Windows diagnostic telemetry, MMCSS latency tuning, and predictive NVMe wear forecaster.
 - 🛡️ **Monitoring Sentinel** &mdash; Autonomous hybrid infrastructure sentry combining kernel telemetry with agentic AI root cause analysis *(In Active Dev)*.
-- 🌐 **[JobNexus](https://github.com/Anudeep-Adari/JobNexus)** &mdash; Local Model Context Protocol (`MCP`) server for Claude Desktop and Cursor AI with in-memory DPDPA 2023 compliance.
+- 🌐 **[JobNexus](https://github.com/Anudeep-Adari/JobNexus)** &mdash; Local Model Context Protocol (`MCP`) server for Claude Desktop and Cursor AI with in-memory DPDPA compliance.
 - 🧹 **[DigitalHygieneAuto](https://github.com/Anudeep-Adari/DigitalHygieneAuto)** &mdash; Event-driven background file sentry with journaled, reversible classification and automated storage cleanup.
 - 🩺 **[SysHealth-Pro](https://github.com/Anudeep-Adari/SysHealth-Pro)** &mdash; Modular hardware telemetry and collector architecture with minimal (<1%) CPU overhead.
 
