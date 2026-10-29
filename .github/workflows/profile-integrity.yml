@@ -1,19 +1,8 @@
 name: Profile Integrity Check
 
+# Manual on-demand execution only (zero automatic runner minute consumption)
 on:
-  push:
-    branches: [ main ]
-    paths-ignore:
-      - '**.md'
-  pull_request:
-    branches: [ main ]
-    paths-ignore:
-      - '**.md'
   workflow_dispatch:
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
 
 jobs:
   verify-assets:
