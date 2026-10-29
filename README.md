@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header" alt="header"/> 
 
-<a href="https://github.com/Anudeep-Adari">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&duration=4000&pause=1000&color=38BDF8&width=650&lines=Hello%2C+I'm+Anudeep+Adari;Platform+Consultant;Cloud+%26+Virtualization;Self-Healing+Automation+%26+SRE" alt="Anudeep Adari - Platform Consultant"/>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=38BDF8&width=435&lines=Hello%2C+it's+Anudeep+Adari;Platform+Consultant" alt="Platform Consultant"/>
 </a>
 
 <div>
