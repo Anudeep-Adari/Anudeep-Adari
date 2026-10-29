@@ -22,12 +22,16 @@
         <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,aws,azure,docker,powershell,bash,py,selenium,sqlite,git,github,githubactions&perline=7&theme=dark" alt="Main Skills" />
       </a>
       <br/><br/>
+      <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
+      <img src="https://img.shields.io/badge/VMware%20vSphere-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
+      <img src="https://img.shields.io/badge/Nutanix%20HCI-024D9C?style=flat-square&logo=nutanix&logoColor=white" alt="Nutanix" />
+      <br/>
+      <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM Cloud" />
+      <img src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+      <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
+      <br/>
       <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
       <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Kanban" />
-      <br/>
-      <img src="https://img.shields.io/badge/VMware%20vSphere-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
-      <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow" />
-      <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Active Directory" />
       <br/><br/>
     </td>
     <td align="center" valign="top">
