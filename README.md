@@ -4,19 +4,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&width=480&lines=Hello%2C+I'm+Anudeep+Adari;Platform+Consultant;Cloud+%26+Automation;AI+%26+Infrastructure" alt="Anudeep Adari"/>
 </a>
 
-```bash
-anudeep@workstation:~$ whoami
-> Anudeep Adari ─ Platform Consultant
-
-anudeep@workstation:~$ cat current_focus.json
-{
-  "role": "Platform Consultant",
-  "focus": "Enterprise Cloud, Automation & Self-Healing Telemetry",
-  "active_project": "Monitoring Sentinel (Autonomous Hybrid Observability & Self-Healing SRE)",
-  "agentic_ai": "Model Context Protocol (MCP) & Agentic Workflows",
-  "creed": "Simplicity and isolation are prerequisites for reliability."
-}
-```
+<div>
+    <img src="./assets/terminal.svg" alt="About Anudeep Terminal Window" width="100%"/>
+</div>
 
 ---
 

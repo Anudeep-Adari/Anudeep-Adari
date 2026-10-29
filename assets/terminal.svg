@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="340" viewBox="0 0 750 340" fill="none">
+  <defs>
+    <style>
+      .text { font-family: 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; font-size: 13px; line-height: 20px; }
+      .prompt { fill: #f78166; font-weight: 600; }
+      .cmd { fill: #58a6ff; }
+      .arg { fill: #7ee787; }
+      .key { fill: #79c0ff; }
+      .val { fill: #a5d6ff; }
+      .bracket { fill: #d2a8ff; }
+      .comment { fill: #8b949e; }
+      .cursor { fill: #58a6ff; }
+    </style>
+  </defs>
+
+  <!-- Terminal Window Background -->
+  <rect width="750" height="340" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Window Header Bar -->
+  <path d="M0 10C0 4.47715 4.47715 0 10 0H740C745.523 0 750 4.47715 750 10V36H0V10Z" fill="#161b22"/>
+  <line x1="0" y1="36" x2="750" y2="36" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Window Control Dots -->
+  <circle cx="20" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="38" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="56" cy="18" r="6" fill="#27c93f"/>
+
+  <!-- Window Title -->
+  <text x="375" y="22" text-anchor="middle" fill="#8b949e" font-family="'Fira Code', monospace" font-size="12">anudeep@platform: ~</text>
+
+  <!-- Terminal Content -->
+  <g class="text" transform="translate(24, 62)">
+    <!-- Command 1 -->
+    <text y="0">
+      <tspan class="prompt">/anudeep $</tspan> <tspan class="cmd">cat</tspan> <tspan class="arg">platform_profile.json</tspan>
+    </text>
+
+    <!-- JSON Content -->
+    <text y="24"><tspan class="bracket">{</tspan></text>
+    <text y="44">  <tspan class="key">"role"</tspan><tspan class="comment">:</tspan> <tspan class="val">"Platform Consultant"</tspan><tspan class="comment">,</tspan></text>
+    <text y="64">  <tspan class="key">"cloud_infrastructure"</tspan><tspan class="comment">:</tspan> <tspan class="bracket">[</tspan><tspan class="val">"Windows Server"</tspan><tspan class="comment">, </tspan><tspan class="val">"VMware vSphere"</tspan><tspan class="comment">, </tspan><tspan class="val">"Nutanix HCI"</tspan><tspan class="comment">, </tspan><tspan class="val">"AWS"</tspan><tspan class="comment">, </tspan><tspan class="val">"Azure"</tspan><tspan class="bracket">]</tspan><tspan class="comment">,</tspan></text>
+    <text y="84">  <tspan class="key">"languages_automation"</tspan><tspan class="comment">:</tspan> <tspan class="bracket">[</tspan><tspan class="val">"PowerShell 7"</tspan><tspan class="comment">, </tspan><tspan class="val">"Python 3.11+"</tspan><tspan class="comment">, </tspan><tspan class="val">"C# (.NET 8 LTS)"</tspan><tspan class="comment">, </tspan><tspan class="val">"TypeScript"</tspan><tspan class="bracket">]</tspan><tspan class="comment">,</tspan></text>
+    <text y="104">  <tspan class="key">"active_flagship"</tspan><tspan class="comment">:</tspan> <tspan class="val">"Monitoring Sentinel (Autonomous Hybrid Observability &amp; Self-Healing SRE)"</tspan><tspan class="comment">,</tspan></text>
+    <text y="124">  <tspan class="key">"agentic_ai"</tspan><tspan class="comment">:</tspan> <tspan class="val">"Model Context Protocol (MCP) &amp; FastMCP Stdio Server Architecture"</tspan><tspan class="comment">,</tspan></text>
+    <text y="144">  <tspan class="key">"creed"</tspan><tspan class="comment">:</tspan> <tspan class="val">"Simplicity and isolation are prerequisites for reliability."</tspan></text>
+    <text y="164"><tspan class="bracket">}</tspan></text>
+
+    <!-- Command 2 -->
+    <text y="196">
+      <tspan class="prompt">/anudeep $</tspan> <tspan class="cmd">echo</tspan> <tspan class="val">"Building resilient enterprise infrastructure &amp; telemetry sentinels."</tspan>
+    </text>
+
+    <!-- Prompt 3 with Blinking Cursor -->
+    <text y="228">
+      <tspan class="prompt">/anudeep $</tspan> <tspan class="cursor">█</tspan>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
